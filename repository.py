@@ -1,4 +1,4 @@
-dict = {"key":"valk"}
+#Я бы тебе советовал все равно делать на классах ибо это нормально блеать
 class Repository:
     def __init__(self):
         self._employee:dict = {}
